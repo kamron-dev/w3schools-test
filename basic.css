@@ -6,3 +6,8 @@ body {
     color: navy;
     margin-left: 20px;
     }
+
+    img {
+        width: 45vw;
+        height: 75vh;
+    }
