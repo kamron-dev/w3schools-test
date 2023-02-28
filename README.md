@@ -9,3 +9,5 @@ This line is added on github itself.
 I'm trying the pull command
 
 Second try. This time I'll comment it.
+
+This line was added on VScode to push it to GitHub afterwards.
